@@ -1,0 +1,8 @@
+**/.build
+*.exe
+*.pdb
+*.dot
+*.exp
+.vs
+*.rdbg
+**/bin
